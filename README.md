@@ -1,8 +1,11 @@
-## Guess Your Song
+## Guess Song From Lyrical Soundtrack
 This is a fun script for guessing the lyrical soundtrack from Youtube
 
 ### Story
 Watching a Youtube video and a soundtrack catches your mood by chance. However, you dont understand the language, cant get the lyrics and unable to look up for the song
+
+### Requirements
+You need to have the google api key and openai api key. Detail instructions can be found (how to get google api key)[https://blog.hubspot.com/website/how-to-get-youtube-api-key] and (how to get openai api key)[https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/]
 
 ### Installation & Run
 - Installation: `pip install -r requirements.txt`
