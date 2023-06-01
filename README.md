@@ -7,6 +7,8 @@ Watching a Youtube video and a soundtrack catches your mood by chance. However, 
 ### Requirements
 You need to have the google api key and openai api key. Detail instructions can be found [how to get google api key](https://blog.hubspot.com/website/how-to-get-youtube-api-key) and [how to get openai api key](https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/)
 
+After granting the api keys, set them in the environment: `GOOGLE_API_KEY` and `OPENAI_API_KEY`
+
 ### Installation & Run
 - Installation: `pip install -r requirements.txt`
 - Run: `python main.py`
